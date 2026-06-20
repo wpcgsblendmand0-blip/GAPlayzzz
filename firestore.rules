@@ -1,0 +1,26 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Default-deny catch-all rule
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // Rules for individual follower nodes identified in schema mapping
+    match /followers/{clientId} {
+      allow read, get: if true; 
+      allow create, update: if (
+        clientId is string && 
+        clientId.size() <= 128 &&
+        request.resource.data.keys().hasAll(['followed', 'timestamp']) &&
+        request.resource.data.keys().size() == 2 &&
+        request.resource.data.followed is bool &&
+        request.resource.data.timestamp is string
+      );
+      allow delete: if (
+        clientId is string && 
+        clientId.size() <= 128
+      );
+    }
+  }
+}

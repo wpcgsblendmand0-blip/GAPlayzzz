@@ -1,0 +1,323 @@
+{
+  "localStats": {
+    "totalFollowers": 1,
+    "totalViews": 60,
+    "videoLikes": {
+      "LkK6yyc2lRM": 0,
+      "BsnHMONtYJ8": 1,
+      "OG4LKeCXQwg": 0,
+      "3W-tiHvrayY": 0
+    },
+    "postLikes": {},
+    "pageViewsByDay": {},
+    "recentVisitors": [
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:17:01.059Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:17:04.640Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:17:04.701Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:18:25.004Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:18:25.124Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:28:19.997Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:28:20.149Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:34:10.380Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:34:10.507Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:36:11.822Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:36:11.852Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:36:11.952Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:36:12.013Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:37:56.456Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:37:56.514Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:44:17.466Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:44:17.517Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:58:27.463Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:58:27.526Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:58:40.902Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:58:40.966Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:58:49.878Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:58:49.881Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:58:57.696Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T15:58:57.699Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T16:06:03.033Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T16:06:03.083Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T16:18:52.084Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T16:18:52.131Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T16:24:25.995Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T16:24:26.047Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T16:25:29.949Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T16:25:30.017Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T16:26:43.244Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T16:26:43.288Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T16:51:06.931Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T16:51:06.981Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T16:52:52.080Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T16:52:52.145Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T17:11:49.857Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T17:11:49.926Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T17:12:10.395Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T17:12:10.466Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T17:14:25.209Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T17:14:25.282Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T17:15:42.925Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T17:15:42.974Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T17:18:03.035Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T17:18:03.096Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T17:18:04.284Z"
+      },
+      {
+        "id": "gap_uuid_ahzepcn5koimqjnq8gd",
+        "os": "Windows/Desktop",
+        "deviceType": "Desktop",
+        "timestamp": "2026-06-20T17:18:04.348Z"
+      }
+    ]
+  },
+  "localMessages": []
+}

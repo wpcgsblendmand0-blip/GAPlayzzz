@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=JetBrains+Mono:wght@400;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+/* Base custom styles of gaming console app */
+html, body {
+  background-color: #09090b; /* Zinc 950 */
+  color: #f4f4f5; /* Zinc 100 */
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100%;
+  scroll-behavior: smooth;
+  
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+/* Custom dark neon scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #09090b;
+}
+::-webkit-scrollbar-thumb {
+  background: #27272a;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #f97316; /* Fire orange hover state */
+}
+
+/* Disable copy/paste selecting globally for sleek console feel as explicitly requested */
+.select-none {
+  -webkit-user-select: none !important;
+  -moz-user-select: none !important;
+  -ms-user-select: none !important;
+  user-select: none !important;
+}

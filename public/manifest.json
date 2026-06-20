@@ -1,0 +1,18 @@
+{
+  "name": "GAPlayzzz Official Portal",
+  "short_name": "GAPlayzzz",
+  "description": "Premium high-octane GTA gameplay highlights, epic custom car stunts, elite specs setups, and live content feed by GAPlayzzz.",
+  "icons": [
+    {
+      "src": "/icon-512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#09090b",
+  "theme_color": "#ea580c",
+  "display": "standalone",
+  "orientation": "portrait"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "GAPlayzzz",
+  "description": "Professional gaming hub and official website for the GAPlayzzz YouTube channel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

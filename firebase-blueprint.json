@@ -1,0 +1,26 @@
+{
+  "entities": {
+    "Follower": {
+      "title": "Follower State",
+      "description": "Represents a follower relationship associated with a client UUID",
+      "type": "object",
+      "properties": {
+        "followed": {
+          "type": "boolean",
+          "description": "Whether the user is currently following the channel"
+        },
+        "timestamp": {
+          "type": "string",
+          "description": "The exact ISO string date when follow state changed"
+        }
+      },
+      "required": ["followed", "timestamp"]
+    }
+  },
+  "firestore": {
+    "followers/{clientId}": {
+      "schema": "Follower",
+      "description": "Stores user follow statuses verified on client session UUID"
+    }
+  }
+}
