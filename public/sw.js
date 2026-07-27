@@ -3,7 +3,6 @@ const ASSETS_TO_CACHE = [
   "/",
   "/index.html",
   "/manifest.json",
-  "/icon-512.jpg",
   "/icons/icon-192x192.png",
   "/icons/icon-512x512.png",
   "/icons/favicon-16x16.png",
